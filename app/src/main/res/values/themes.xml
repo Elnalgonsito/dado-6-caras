@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Dado6Caras" parent="Theme.MaterialComponents.Light" />
+</resources>
